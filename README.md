@@ -28,7 +28,7 @@ bun install
 bun run index.ts
 ```
 
-- Open browser on https://localhost:300/home
+- Open browser on https://localhost:3000/home
 
 ## Enviroment Variables
 
