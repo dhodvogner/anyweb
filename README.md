@@ -18,7 +18,7 @@ But dont expect much 😂
 bun install
 ```
 
-- Make sure ollama is running locally.
+- Make sure [ollama](https://ollama.com/) is running locally.
 
 - The default model is `qwen2.5-coder` make sure its pulled.
 
